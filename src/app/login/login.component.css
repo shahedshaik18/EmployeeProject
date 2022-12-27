@@ -1,0 +1,19 @@
+.ta{
+    background-image: url("https://img.freepik.com/free-photo/abstract-app-social-web-service-object_1418-520.jpg?size=626&ext=jpg&ga=GA1.1.264587705.1663739544&semt=sph");
+   background-repeat: no-repeat;
+   width: auto;
+   height: 100%;
+   background-position: 80%;
+   background-size: cover;
+    
+    padding: 10%;
+    font-size: medium;
+    background-color: darkgray;
+}
+button{
+    margin-left: 8%;
+    color: black;
+    background-color: grey;
+    text-align: center;
+}
+   

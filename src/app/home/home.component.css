@@ -1,0 +1,28 @@
+.cold{
+    background-image: url("https://img.freepik.com/free-photo/diverse-businesspeople-having-meeting_53876-103954.jpg?size=626&ext=jpg&ga=GA1.1.264587705.1663739544&semt=sph");
+    background-repeat: no-repeat;
+    width: auto;
+    background-size: cover;
+    background-position: center;
+  
+}
+h1{
+    font-style: italic;
+    margin-left: 30%;
+}
+.form-inline{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.tenent{
+    margin-left: 28%;
+    text-align: center;
+}
+.some{
+    margin-left: 60%;
+    margin-top: 10%;
+ 
+}
+button{
+    background-color:grey;
+}
